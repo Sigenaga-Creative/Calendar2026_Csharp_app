@@ -1,7 +1,7 @@
 # Calendar2025_Csharp_app
 UI/UX学年発表会【Calendar2025】
 
-※大まかな流れは「Form3→Form1→Form2」で稼働しています。2025年6月に制作しました。
+※わかりずらいため大変恐縮ではありますが、「Form3.cs→Form1.cs→Form2.cs」で稼働しています。2025年6月に制作しました。
 
 「概要」
 
