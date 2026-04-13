@@ -33,7 +33,7 @@
 
 約2分程度の動画ですので、ぜひご視聴ください。
 
-URL:[[https://youtu.be/R6TwAjTDRXE](https://youtu.be/goZv9wdrYkk)](https://youtu.be/g82Nh0a4Xpg)
+URL:[[[https://youtu.be/R6TwAjTDRXE](https://youtu.be/goZv9wdrYkk)](https://youtu.be/g82Nh0a4Xpg)](https://youtu.be/g82Nh0a4Xpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
